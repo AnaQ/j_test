@@ -55,7 +55,7 @@ int main()
 			printf("ejemplo float: %f\n", r);
 			return 0;
 			*/
-			/*
+	/*
 								int ch,ch1;
 								printf("Escribe un caracter\n");
 								ch = getc(stdin);
@@ -67,7 +67,7 @@ int main()
 								//ch = getchar();
 								//putchar(ch);
 								*/
-								/*
+	/*
 																int ch, ch1;
 																ch = 65;
 																//printf("caracter 65 es:\n");
@@ -80,7 +80,7 @@ int main()
 																	putchar(10);
 																return 0;
 																*/
-																/*
+	/*
 																												float c;
 																												c = 0.000234;
 																												printf("numero %e\n",c);
@@ -88,7 +88,7 @@ int main()
 																												printf("numero %g\n", c);
 																												return 0;
 																												*/
-																												/*
+	/*
 																																													printf("%X, %d\n %X, %d\n %X, %d\n %X, %d\n %X, %d\n %X, %d\n ", 0, 0, 1,1,2,2,3,3,4,4,5,5);
 																																													printf("%x, %d\n %x, %d\n %x, %d\n %x, %d\n %x, %d\n %x, %d\n ", 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 11, 11);
 																																													printf("%X, %d\n %X, %d\n %X, %d\n", 12, 12, 13, 13, 14, 14, 15, 15);
@@ -97,7 +97,7 @@ int main()
 																																													printf("%-6.3f\n",123.456);
 																																													return 0;
 																																													*/
-																																													/*
+	/*
 																																																																				int x1=2,x2=2,x3=2,x4 = 2, y1,y2,y3,y4;
 																																																																				y1 = ++x1;
 																																																																				y2 = --x2;
@@ -109,7 +109,7 @@ int main()
 																																																																				printf("y4=%d   x4=%d\n", y4, x4);
 																																																																				return 0;
 																																																																			*/
-																																																																			/*
+	/*
 																																																																																															// ejercicio 9.1
 																																																																																															int x;
 																																																																																															unsigned int y;
@@ -120,7 +120,7 @@ int main()
 																																																																																															printf("%d, %u\n",x,y);
 																																																																																															printf("0x%X\n", z);
 																																																																																														*/
-																																																																																														/*
+	/*
 																																																																																															int x = 4;
 																																																																																															int y = 2;
 																																																																																															int op;
@@ -139,7 +139,7 @@ int main()
 																																																																																															}
 																																																																																															return 0;
 																																																																																															*/
-																																																																																															/*
+	/*
 																																																																																															//APUNTADORES
 																																																																																															int x=4;
 																																																																																															int *ptr_x;
